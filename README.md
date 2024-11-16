@@ -16,7 +16,7 @@ git clone https://github.com/110560/ShadowsocksR.git
 
 
 ```
-apt update && apt install -y libsqlite3-dev libffi-dev python3-pip
+apt update && apt install -y libsqlite3-dev libffi-dev python3-pip git
 ```
 
 安装shadowsocks依赖
