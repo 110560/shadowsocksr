@@ -4,7 +4,7 @@ Python 3.11.2 使用ssr
 
 ## 安装
 ```
-git clone https://github.com/110560/ShadowsocksR.git
+git clone https://github.com/110560/shadowsocksr.git
 ```
 
 
