@@ -12,7 +12,7 @@ git clone https://github.com/110560/ShadowsocksR.git
 #### CentOS
 - yum update
 
-#### Python3.x
+#### Python3.11.2
 
 
 ```
