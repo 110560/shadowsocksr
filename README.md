@@ -3,7 +3,9 @@ Python 3.11.2 使用ssr
 兼容ProxyPanel & SSRPanel的自改版SSR(R)后端，可兼容原版SS、SSR，本版本是带有IP自动上报功能的
 
 ## 安装
--git clone https://github.com/110560/ShadowsocksR.git
+```
+git clone https://github.com/110560/ShadowsocksR.git
+```
 
 
 ## 更新软件源
