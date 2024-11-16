@@ -25,6 +25,11 @@ apt update && apt install -y libsqlite3-dev libffi-dev python3-pip
 cd shadowsocksr
 pip install -r requestment.txt  --break-system-packages
 ```
+返回结果
+```
+python3 server.py 
+```
+
 ---
 
 
